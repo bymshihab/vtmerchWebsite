@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "MyWebFont";
+  src: url("../Asset/Font/Act_Of_Rejection.ttf") format("truetype"),
+    url("/Asset/Font/Montserrat-VariableFont_wght.ttf") format("truetype"),
+    url("/Asset/Font/Inter/Inter-VariableFont_opsz,wght.ttf") format("truetype");
+}
+
+/* Large Heading - Montserrat */
+.heading-large {
+  font-family: "Montserrat", sans-serif;
+  font-size: 112px;
+  font-weight: 800;
+  line-height: 134.4px;
+  letter-spacing: 12px;
+}
+
+/* Very Large Heading - Act of Rejection */
+.heading-very-large {
+  font-family: "Act of Rejection", sans-serif;
+  font-size: 140px;
+  font-weight: 400;
+  line-height: 168px;
+  letter-spacing: 1px;
+}
+
+/* Small Text - Inter */
+.text-small {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.2px;
+  letter-spacing: 0.005em;
+}
+
+/* Medium Heading - Montserrat */
+.heading-medium {
+  font-family: "Montserrat", sans-serif;
+  font-size: 70px;
+  font-weight: 600;
+  line-height: 84px;
+  letter-spacing: 0.5px;
+}
+
+/* Medium Heading 2 - Montserrat */
+.heading-medium-2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 49px;
+  font-weight: 500;
+  line-height: 58.8px;
+  letter-spacing: 0.5px;
+}
+
+/* Medium Bold Heading - Montserrat */
+.heading-medium-bold {
+  font-family: "Montserrat", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 57.6px;
+  letter-spacing: 0.005em;
+}
+
+/* Paragraph Large - Montserrat */
+.paragraph-large {
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28.8px;
+  letter-spacing: 0.005em;
+}
+
+/* Paragraph Medium - Inter */
+.paragraph-medium {
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.005em;
+}
+
+/* Paragraph Small - Inter */
+.paragraph-small {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.005em;
+}
